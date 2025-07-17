@@ -4,81 +4,80 @@
 
 ---
 
-## 🚀 About Us
+## ✨ Who We Are
 
-**TR Digital Services** is a results-driven digital agency dedicated to empowering businesses with high-quality web design, custom development, digital marketing, and performance-focused solutions. We help our clients grow their online presence through strategic design, secure builds, and SEO best practices.
+**TR Digital Services** is a full-service digital agency based in the Philippines, delivering modern, performance-focused websites and tailored digital solutions for businesses, professionals, and organisations.  
 
-Our projects span small businesses, professional services, charities, and organisations that need scalable, secure, and modern websites and digital assets.
+We combine design, development, and digital strategy to help our clients build trust, grow online, and stay ahead of the competition.
 
 ---
 
 ## 💼 What We Do
 
-Our work covers:
+We build, manage, and maintain projects across:
 
-- **Custom WordPress Development**  
-  Bespoke WordPress themes, plugins, and optimised templates.
-- **Elementor & Advanced Page Builders**  
-  Flexible and powerful page designs with custom integrations.
-- **Custom Fields & Theme Frameworks**  
-  Advanced Custom Fields (ACF), Secure Custom Fields (SCF), Redux Framework, and more.
-- **Branding & UI/UX Design**  
-  Consistent, modern, and conversion-focused digital branding.
-- **SEO & Performance Optimisation**  
-  Search-ready, fast-loading sites built for ranking and retention.
-- **Secure & Reliable Deployments**  
-  Professional deployment workflows and server management for stable releases.
-- **Digital Strategy & Support**  
-  Long-term support, updates, and digital consulting to help clients stay ahead.
+- **Website Design & Development**
+  - WordPress sites built with Elementor & custom code
+  - Secure, scalable themes and templates
+  - Custom fields, framework integrations, and optimised structures
 
----
+- **SEO & Digital Marketing**
+  - On-page SEO, site speed optimisation, keyword-ready structures
+  - Technical audits and continuous improvements
 
-## 🗂️ Repositories
+- **Branding & Visual Identity**
+  - Consistent, modern designs aligned with client branding
+  - UI/UX design for better engagement and conversions
 
-Our private repositories contain:
-
-- WordPress themes & plugins
-- Custom Elementor templates & sections
-- Scripts for deployment, validation, and backups
-- Assets, configurations, and reusable components
-- Documentation & workflow checklists
-
-**All repositories are private and maintained by the TR Digital Services team.**
+- **Website Maintenance & Support**
+  - Content updates, backups, security, hosting guidance
+  - Safe deployment processes and version-controlled releases
 
 ---
 
-## 🧩 Best Practices & Tooling
+## 🛠️ Our Private Repositories
 
-- Git-based version control for all code and assets
-- Deployment checklists for staging and production
-- Validation scripts to ensure dependency integrity
-- Secure environment configuration and backups
+Our GitHub organization hosts:
+
+- Custom themes and plugins
+- Elementor templates and reusable sections
+- Deployment scripts and validation tools
+- Configuration files, assets, and workflow documentation
+
+All repositories are private and managed by the TR Digital Services development team.
+
+---
+
+## ✅ Development Practices
+
+- Git-based version control for transparency and stability
+- Deployment checklists for staging and live servers
+- Pre-deployment validation for critical dependencies
+- Secure environment configuration and backup scripts
 
 ---
 
 ## 👥 Contributors & Team
 
-This GitHub organization is managed by:
+- **Lead Developer:** [arnelG](https://github.com/wikiwyrhead) · [arnelbg.com](https://arnelbg.com)  
+- **Maintained By:** TR Digital Services Design & Development Team
 
-- **Lead Developer:** [arnelG](https://github.com/wikiwyrhead) · [arnelbg.com](https://arnelbg.com)
-- **TR Digital Services Dev & Design Team**
-
-We build on trusted tools like the **Acens Theme**, tailored and maintained in-house.
+Our builds leverage frameworks like **ACF**, **SCF**, **Redux**, and custom code solutions tailored to client needs.
 
 ---
 
 ## 📫 Contact Us
 
-💌 **Email:** [info@trdigitalservices.com](mailto:info@trdigitalservices.com)  
-🌐 **Website:** [trdigitalservices.com](https://trdigitalservices.com)
+Have a project in mind? Want to collaborate or need support?  
 
-For service inquiries, collaborations, or support, please get in touch.
+📧 **info@trdigitalservices.com**  
+🌐 [trdigitalservices.com](https://trdigitalservices.com)
 
 ---
 
 ## ⚠️ Notice
 
-All code, designs, and assets within this organization are the exclusive property of TR Digital Services.  
+All code, assets, and designs within this GitHub organization are the **exclusive property of TR Digital Services**.  
 **Unauthorized use, copying, or distribution is strictly prohibited.**
 
 ---
